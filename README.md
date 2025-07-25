@@ -5,4 +5,4 @@ The maps referred to here are Objects, Peds, and Vehicles
 Not ymap files which allow adding new buildings and other items
 This tool can be developed to support other maps for other menus.
 
-# Coded by @rfoodxmodz
+Coded by @rfoodxmodz
